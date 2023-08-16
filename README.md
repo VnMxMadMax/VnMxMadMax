@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hammadur Rahman
-- 👀 I’m interested in coding,web designing .
+- 👀 I’m interested in coding, data science, data analyst .
 - 🌱 I’m currently learning in Delhi Technical Campus (affilated to GGSIPU).
 - 📫 How to reach me- 
 - email - hammadurrahman171@gmail.com
